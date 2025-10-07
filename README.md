@@ -1,4 +1,4 @@
-Hi 👋, I'm Muhammed Semih
+Hi 👋, I'm Muhammed Semih Külekçioğlu
 Software Engineering Student
 
 🌱 I’m currently learning Embedded Systems, Linux UI Development, Computer Vision, Web & Mobile UI Development and Machine Learning. I’m particularly interested in combining image processing, intelligent systems, and modern web/mobile technologies to create innovative and impactful solutions.
